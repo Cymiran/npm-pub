@@ -1,0 +1,22 @@
+{
+  "name": "gp4-nodejs",
+  "version": "1.0.0",
+  "description": "npm publish test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cymiran/npm-pub.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "jojo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cymiran/npm-pub/issues"
+  },
+  "homepage": "https://github.com/Cymiran/npm-pub#readme"
+}
